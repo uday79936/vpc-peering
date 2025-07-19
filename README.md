@@ -13,7 +13,7 @@ DEV Community
 
 ## Architectural Diagram:
 
-<img width="543" height="642" alt="Image" src="https://github.com/user-attachments/assets/d1e7dab9-f194-4db8-96ba-ddacfde6a548" />
+![Screenshot_2025-07-19-22-21-49-15_680d03679600f7af0b4c700c6b270fe7.jpg](https://github.com/user-attachments/assets/837ce2e9-49f2-41a5-a07d-9ac5142f6aa9)
 
 
 
