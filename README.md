@@ -13,8 +13,7 @@ DEV Community
 
 ## Architectural Diagram:
 
-![Screenshot_2025-07-19-22-21-49-15_680d03679600f7af0b4c700c6b270fe7.jpg](https://github.com/user-attachments/assets/837ce2e9-49f2-41a5-a07d-9ac5142f6aa9)
-
+<img width="1080" height="620" alt="Image" src="https://github.com/user-attachments/assets/1f375e4b-862b-4bfe-9e8d-a775ac12b871" />
 
 
 ## 🛠️ How to Set It Up (Same Account, Same Region)
