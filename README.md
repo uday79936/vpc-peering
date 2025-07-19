@@ -11,6 +11,12 @@ No single point of failure or bottleneck; peering leverages native infrastructur
 Minimal cost: Free for AZ-local traffic; cross-AZ/region data transfers incur minimal fees 
 DEV Community
 
+## Architectural Diagram:
+
+<img width="543" height="642" alt="Image" src="https://github.com/user-attachments/assets/d1e7dab9-f194-4db8-96ba-ddacfde6a548" />
+
+
+
 ## 🛠️ How to Set It Up (Same Account, Same Region)
 ## 1. Create VPCs
 Use the console or CLI to create your two VPCs (e.g., AjaVPC and IbmVPC) with separate non-overlapping CIDRs, such as 10.0.0.0/16 and 192.168.0.0/16 
