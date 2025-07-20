@@ -47,6 +47,14 @@ Medium.
 ```
 ping 192.168.1.100  # EC2-B's private IP
 ```
+## we need to copy the pem file to the server securely by using command called:
+```
+scp -i pem.file pem.file ubuntu@ ip-address:~
+```
+## We need to give their permissions to the pem file:
+```
+sudo chmod 400 pem file
+```
 ## Screenshots:
 
 ## Cloudformation AJA-VPC:
